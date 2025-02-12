@@ -1,0 +1,2 @@
+"Benchmark","Mode","Threads","Samples","Score","Score Error (99.9%)","Unit"
+"com.google.j2cl.samples.wasm.baseline.JvmBenchmark.benchmark","ss",1,100,253.878330,24.943959,"us/op"
